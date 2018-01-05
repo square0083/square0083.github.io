@@ -1,0 +1,6 @@
+baseURL: "http://square0083.github.io"
+languageCode: "en-us"
+title: "My Site"
+theme: "hugo-classic"
+permalinks:
+  post: /:year/:month/:title/
